@@ -1,0 +1,14 @@
+{
+  "author": "Ivan Pedrazas",
+  "title": "NotBook",
+
+  "url": "http://notbook.co.uk",
+  "favicon": "/static/favicon.ico",
+
+  "showArchive": true,
+  "showCategories": true,
+  "showTags": true,
+
+  "paginationSize": 2,
+
+}
