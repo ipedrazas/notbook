@@ -1,0 +1,31 @@
+&lt;?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>NotBook</title>
+  <link href="http://notbook.co.uk" />
+  <updated>2015-12-02T13:42:18Z</updated>
+
+  
+  
+  <entry>
+    <title>Generated title &amp; slug</title>
+    <link href="http://notbook.co.uk/generated-title-slug.html" />
+    
+    <updated>2015-11-23 10:06:00 &#43;0000 UTC</updated>
+    
+    <summary>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam euismod tellus
+non magna iaculis semper. Duis vitae fermentum eros, ac imperdiet risus. Proin
+eu gravida eros. Donec commodo orci non ligula gravida, ut luctus tellus
+cursus. Vestibulum nibh urna, sodales sed ullamcorper quis, ornare non sem.
+Phasellus suscipit scelerisque urna, sit amet molestie ante congue vel. Duis
+congue arcu id consequat viverra.</p>
+
+    </summary>
+    <author>
+      <name>Ivan Pedrazas</name>
+    </author>
+  </entry>
+  
+  
+</feed>
